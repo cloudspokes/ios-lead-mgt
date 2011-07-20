@@ -1,0 +1,13 @@
+iOS Lead Management
+
+URL: http://www.cloudspokes.com/challenge_detail.html?contestID=217
+Blog: http://blog.cloudspokes.com/2011/06/mobile-is-hot-ios-lead-management.html
+Challenge end date: Fri Jun 24 03:00:00 GMT 2011
+
+Description
+===========
+While sales people are on the go, it would be great to enter leads into SFDC. This native iOS application will allow sales people to enter leads on their iPhone directly into their SFDC account. Additionally, a sales person may want to take a photo of business card or of the contact and attach it to the lead.
+
+Requirements
+============
+The application will require people to enter their SFDC credentials and authenticate with their SFDC account. Once they have entered their credentials the lead entry screen will appear.<br> <br> For each lead the following required fileds will be captured: <ul><li>Last name </li><li>Company </li><li>Lead Status -- Open - Not Contacted and Working - Contacted</li></ul> The following are not required<br> <ul><li>First name</li><li>Address</li><li>Email</li><li>Website</li><li>Phone </li><li>Mobile Phone</li><li>Street</li><li>City</li><li>State/Province</li><li>Zip</li></ul> Once the lead has been created and saved. Provide the ability to attach a file to the lead. This could be a picture of a business card or of the the lead. The upload a file button will browse to an image. No OCR is required for a business card photo.
